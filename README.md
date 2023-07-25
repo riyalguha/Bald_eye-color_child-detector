@@ -13,3 +13,6 @@ eye color of the image.
 
 ## GUI
 The gui was built using Tkinter, Just run the gui.py file and upload and image to get results.
+
+## Check the Tags Section to Download the model files to run the GUI.py file
+
